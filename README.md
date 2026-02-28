@@ -16,4 +16,4 @@ Conversation / Artifact Link: https://claude.ai/public/artifacts/09e71788-5581-4
 GitHub Markdown Repo Link: https://github.com/kalincammrina/Unit3-ChatGPT-Notes
 
 ## Task 6 – AWS S3 Upload
-Upload Success Screenshot: Uploaded
+Upload Zip File: Uploaded
